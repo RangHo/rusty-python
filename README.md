@@ -21,7 +21,7 @@ python setup.py install
 ``` python
 import csieve
 
-csieve.sieve(100);
+csieve.sieve(100)
 ```
 
 ## `rustsieve`: Rust 에라토스테네스의 체 구현체
